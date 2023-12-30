@@ -1,0 +1,8 @@
+{
+    "Auth": {
+        "Cognito": {
+          "userPoolClientId": "6q8lmstrqdtdc06gbmgqvqgtv4",
+          "userPoolId": "ap-south-1_SaNecr3bT"
+        }
+      }   
+}
